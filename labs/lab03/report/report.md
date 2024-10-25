@@ -124,18 +124,22 @@ header-includes:
 5. После успешной компиляции сгенерировались файлы report.pdf и report.docx.
 Открываю и проверяю корректность полученных файлов.
 
-![сгенерированные_файлы](image/сгенерированные_файлы.png){#fig:005 width=70%} 
+![сгенерированные файлы](image/сгенерированные_файлы.png){#fig:005 width=70%} 
 
 6. Удаляю полученные файлы с использованием Makefile. Для этого ввожу команду make clean.
 Проверяю, что после этой команды файлы report.pdf и report.docx были удалены. 
 
-![make_clean](image/make_clean.png){#fig:006 width=70%} 
+![make clean](image/make_clean.png){#fig:006 width=70%} 
 
 7. Открываю файл report.md c помощью текстового редактора gedit. 
 
 ![gedit](image/gedit.png){#fig:007 width=70%} 
 
 8. Загружаю файлы на Github.
+
+![файлы на Git](image/файлы_на_Git.png){#fig:008 width=70%} 
+
+
 
 
 
